@@ -8,6 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@mdx-js/loader": "^1.6.22",
+    "@next/mdx": "^11.0.1",
     "bootstrap": "^5.0.0-beta3",
     "netlify-cms-app": "^2.15.28",
     "next": "^11.0.0",
